@@ -23,7 +23,7 @@ int main(){
 	}
 	
 	for (int a;a<6;a++){
-		printf("%d\n",array[a]);
+		printf("%d ",array[a]);
 	}
 	
 	
